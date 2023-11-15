@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/scottyg/code-repos/split-prism/SplitPrism/obj/Debug/net8.0/scopedcss/projectbundle/SplitPrism.bundle.scp.css",
+      "PackagePath": "staticwebassets/SplitPrism.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/scottyg/code-repos/split-prism/SplitPrism/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "/Users/scottyg/code-repos/split-prism/SplitPrism/wwwroot/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/scottyg/code-repos/split-prism/SplitPrism/wwwroot/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/scottyg/code-repos/split-prism/SplitPrism/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.SplitPrism.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.SplitPrism.props",
+      "PackagePath": "build\\SplitPrism.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.SplitPrism.props",
+      "PackagePath": "buildMultiTargeting\\SplitPrism.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.SplitPrism.props",
+      "PackagePath": "buildTransitive\\SplitPrism.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

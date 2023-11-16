@@ -1,4 +1,4 @@
-using SplitPrism.Components;
+using SplitPrism.App.Components;
 
 var builder = WebApplication.CreateBuilder(args);
 
